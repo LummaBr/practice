@@ -65,6 +65,10 @@ input:hover, .login-button:hover{
 }
 
 .login-button {
+    border-radius: 20px;
+    border: none;
+    margin: 5px;
+    border: 1px transparent solid;
     padding: 15px;
     width: 30%;
     cursor: pointer;
