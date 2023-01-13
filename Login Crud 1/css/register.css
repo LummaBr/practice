@@ -65,18 +65,22 @@ input {
 }
 
 .nameput {
-    width: 40%;
+    width: 39%;
 }
 
 .checkbox-termo {
     width: 10px;
 }
 
-input:hover, .login-button:hover{
+input:hover, .register-button:hover{
     border: 1px black solid;
 }
 
 .register-button {
+    border-radius: 20px;
+    border: none;
+    margin: 5px;
+    border: 1px transparent solid;
     padding: 15px;
     width: 20%;
     cursor: pointer;
