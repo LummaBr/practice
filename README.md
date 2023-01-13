@@ -1,4 +1,4 @@
-# practice
+# Practice
 Repository for the practice of random projects
 
 <label>Login Page Pc Model: 1.</label>
