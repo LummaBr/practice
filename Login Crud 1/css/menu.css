@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&family=PT+Sans&family=Sofia+Sans+Semi+Condensed:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.menubar {  width: 100%; }
+
+.menubar ul {
+    background-color: aqua;
+    list-style-type: none;
+
+    margin: 0;
+    height: 10%;
+
+    font-size: 1.5em;
+    line-height: auto;
+    text-align: center;
+}
+
+.menubar ul li {
+    background-color: red;
+    display: inline;
+}
+
+.menubar ul li a {
+    padding: 15px;
+}
+.right {    float: right;}
+
+.left { float: left; }
+
+.clear {    clear: both; }
+
+.logo { font-family: 'Moon Dance', cursive; }
